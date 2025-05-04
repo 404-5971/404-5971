@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 404 👋</h1>
+<h1 align="center">Hi, I'm 404 👋 and JavaScript is an Esolang</h1>
 
 [![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)](https://github.com/torvalds/linux)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
