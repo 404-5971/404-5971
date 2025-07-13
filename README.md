@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm 404 👋 and JavaScript is an Esolang</h1>
 
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 [![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)](https://github.com/torvalds/linux)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
