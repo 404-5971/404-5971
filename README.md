@@ -16,7 +16,7 @@
 
 
 ### ⚡ Technical Standards
-*Reliability is not an accident. I enforce rigor in every ecosystem.*
+*Reliability is not an accident, it's a discipline.*
 
 | Principle | Implementation |
 | :--- | :--- |
